@@ -2,7 +2,7 @@
 dashboard for analyzing Netflix Dataset
 the aim of this job is to  analyze file Netflix which is a file that contains information on all of the
 movies and TV shows available on Netflix as of May 2022. In addition to basic information
-such as title, release year, andruntime, the dataset includes data on the cast and crew, IMDB
+such as title, release year, and runtime, the dataset includes data on the cast and crew, IMDB
 score and number of votes, genres, production companies, and more.
 
 in this project you will see some files:
